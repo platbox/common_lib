@@ -1,4 +1,4 @@
-VSN = 3.3.5
+VSN = 3.3.7
 
 ### Special characters
 
